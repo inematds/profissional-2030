@@ -14,3 +14,9 @@ Página: https://inematds.github.io/profissional-2030/
 | Empresa-laboratório | https://inematds.github.io/prof2030-lab/ |
 
 Página estática (HTML + CSS, sem build). Plano do programa: repo privado `ia-2027`.
+
+## Mais no INEMA.CLUB
+
+- [Ficha no INEMA.CLUB](https://www.inema.club/cursos/335-profissional-2030-programa-aberto-base-comum-4-formacoes-de-ia/)
+- [Guia: como aprender inteligência artificial](https://www.inema.club/aprender-inteligencia-artificial/)
+- [Todos os cursos](https://www.inema.club/cursos/)
